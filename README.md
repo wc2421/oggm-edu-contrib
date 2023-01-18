@@ -1,33 +1,11 @@
-# Example for external contributions to OGGM-Edu
+Georgia Tech EAS Glacier & Ice Sheet Dynamics Class - OGGM-Edu tutorials
 
-In this repository, we illustrate how you can create your own educational content (in a notebook) and run it
-in an OGGM / MyBinder environment.
+In this repository, we adapt and create tutorials for use with OGGM-Edu (tutorials here) to examine ice dynamics in an OGGM / MyBinder environment.
+To use these notebooks, click on the following link
 
-There are two steps:
+https://mybinder.org/v2/gh/OGGM/binder/master?urlpath=git-pull?repo=https://github.com/skachuck/clasp474_w2021%26amp%3Burlpath=lab/tree/clasp474_w2021
 
-**1. Create your content and put in on an online repository**
+https://mybinder.org/v2/gh/OGGM/binder/master?urlpath=git-pull?repo=https://github.com/wc2421/oggm-edu-contrib/
 
-**2. Create and share the link as explained below.**
-
-## How to create a link
-
-The link must have the following syntax:
-
-`https://mybinder.org/v2/gh/OGGM/binder/stable?urlpath=git-pull?repo=<PATH/TO/YOUR/REPO>`
-
-For example, here is the link to this repository:
-
-https://mybinder.org/v2/gh/OGGM/binder/stable?urlpath=git-pull?repo=https://github.com/OGGM/oggm-edu-contrib
-
-**To open in a jupyter-lab instead**, use:
-
-`https://mybinder.org/v2/gh/OGGM/binder/stable?urlpath=git-pull?repo=<PATH/TO/YOUR/REPO>%26amp%3Burlpath=lab/tree/<YOUR_REPO_NAME>`
-
-**To open in a jupyter-lab and at a specific folder/file**, use:
-
-`https://mybinder.org/v2/gh/OGGM/binder/stable?urlpath=git-pull?repo=<PATH/TO/YOUR/REPO>%26amp%3Burlpath=lab/tree/<YOUR_REPO_NAME>/<PATH/TO/FILE>`
-
-For example, this opens the test notebook in Jupyter Lab:
-
-https://mybinder.org/v2/gh/OGGM/binder/stable?urlpath=git-pull?repo=https://github.com/OGGM/oggm-edu-contrib%26amp%3Burlpath=lab/tree/oggm-edu-contrib/getting_started_with_contrib.ipynb
+https://mybinder.org/v2/gh/OGGM/binder/master?urlpath=git-pull?repo=https://github.com/wc2421/oggm-edu-contrib/mass_balance_gradients
 
